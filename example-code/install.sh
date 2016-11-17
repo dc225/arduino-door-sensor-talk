@@ -1,4 +1,4 @@
 #!/bin/sh
 
 pip install serial
-npm install
+cd ..; npm install
