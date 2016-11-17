@@ -1,0 +1,16 @@
+{
+  "name": "arduino-door-sensor",
+  "version": "1.1.1",
+  "description": "Example code for Arduino powered door alarm",
+  "main": "monitor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "c0nfus3d <https://github.com/c0nfus3d>",
+  "license": "MIT",
+  "dependencies": {
+    "twilio": "^2.9.1",
+    "moment": "^2.12.0",
+    "fs": "0.0.2"
+  }
+}
