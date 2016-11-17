@@ -1,4 +1,4 @@
 #!/bin/sh
 
-pip install serial
+pip install pyserial
 npm install
